@@ -47,10 +47,10 @@ To train and evaluate the model:
 This will load the dataset, train a logistic regression model, and evaluate its performance. You can also modify the input data in the script to make predictions for new data.
 
 ## Model Evaluation
-Accuracy on Training Data: 85.12%
-Accuracy on Test Data: 81.97%
-Mean Squared Error: 0.1803
-Receiver Operating Characteristic (ROC) curve
+- Accuracy on Training Data: 85.12%
+- Accuracy on Test Data: 81.97%
+- Mean Squared Error: 0.1803
+- Receiver Operating Characteristic (ROC) curve
 
 ## Building a Predictive System
 You can use the trained model to make predictions for new data.
